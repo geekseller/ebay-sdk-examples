@@ -1,0 +1,4 @@
+vendor
+composer.phar
+configuration.php
+oauth-tokens/server.pem

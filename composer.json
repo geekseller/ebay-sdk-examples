@@ -1,4 +1,21 @@
 {
+    "name": "geekseller/ebay-sdk-php-examples",
+    "description": "Examples for eBay SDK for PHP.",
+    "keywords": ["ebay", "api", "sdk"],
+    "homepage": "https://www.geekseller.com/",
+    "version": "0.1.0",
+    "type": "library",
+    "license": "(Apache-2.0 and MIT)",
+    "authors": [
+        {
+            "name": "GeekSeller",
+            "email": "support@geekseller.com",
+            "homepage": "https://www.geekseller.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/geekseller/ebay-sdk-php-examples/issues"
+    },
     "require": {
         "dts/ebay-sdk-php": "18.*",
         "slim/slim": "^3.0",

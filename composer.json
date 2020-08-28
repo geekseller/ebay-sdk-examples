@@ -17,7 +17,7 @@
         "issues": "https://github.com/geekseller/ebay-sdk-examples/issues"
     },
     "require": {
-        "dts/ebay-sdk-php": "18.*",
+        "geekseller/ebay-sdk-php": "*",
         "slim/slim": "^3.0",
         "slim/twig-view": "^2.2"
     }

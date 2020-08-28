@@ -3,7 +3,7 @@
     "description": "Examples for eBay SDK for PHP.",
     "keywords": ["ebay", "api", "sdk"],
     "homepage": "https://www.geekseller.com/",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "type": "library",
     "license": "(Apache-2.0 and MIT)",
     "authors": [

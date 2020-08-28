@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e1a5b62bf7719ceeb033b6bcf1bf4381",
+    "content-hash": "27cf15a562b984fd1e931efa257e18b7",
     "packages": [
         {
             "name": "geekseller/ebay-sdk-php",

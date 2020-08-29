@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "27cf15a562b984fd1e931efa257e18b7",
+    "content-hash": "3e76eae5edef3fe6034f9eafb659ba89",
     "packages": [
         {
             "name": "geekseller/ebay-sdk-php",
-            "version": "0.1.0",
+            "version": "0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/geekseller/ebay-sdk-php.git",
-                "reference": "7fe5d5ed64e1373fe645d35781e4ae467d8a9ae2"
+                "reference": "6425eca1a9364ddf70c5ecdb8364310b9fb47a9c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/geekseller/ebay-sdk-php/zipball/7fe5d5ed64e1373fe645d35781e4ae467d8a9ae2",
-                "reference": "7fe5d5ed64e1373fe645d35781e4ae467d8a9ae2",
+                "url": "https://api.github.com/repos/geekseller/ebay-sdk-php/zipball/6425eca1a9364ddf70c5ecdb8364310b9fb47a9c",
+                "reference": "6425eca1a9364ddf70c5ecdb8364310b9fb47a9c",
                 "shasum": ""
             },
             "require": {
@@ -57,7 +57,7 @@
                 "ebay",
                 "sdk"
             ],
-            "time": "2020-08-28T18:24:16+00:00"
+            "time": "2020-08-28T18:56:51+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
